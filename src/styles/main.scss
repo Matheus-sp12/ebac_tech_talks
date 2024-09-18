@@ -1,6 +1,7 @@
 @use 'hero';
 @use './components/infosbar';
 @use './components/buttons';
+@use './event';
 
 * {
     margin: 0;
@@ -26,3 +27,9 @@
         max-width: 90%;
     }
 }
+
+
+
+//#pink 1 = #89223b
+//#9c791d
+// #4f2ac3
